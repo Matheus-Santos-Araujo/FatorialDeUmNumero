@@ -1,4 +1,4 @@
-# FatorialDeUmNumero
+# FatorialComInterfaceGraficaDeUmNumero
 Calcula com apoio gráfico do JAVA o fatorial do número que você deseja.
 
 Uma inciativa:
